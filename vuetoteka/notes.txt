@@ -1,0 +1,7 @@
+koriscenje store-a (zajednicke funkcije i promenljive)
+axios glavni
+reload stranice
+-- validacija na beku je koriscena na admin panelu
+slike nisu uskladjene (gde se cuvaju - u aspu i vuetoteka -treba da se spoje)
+problem sa porudzbinom - kaze da je greska iako je zapravo odradi
+dupla redirekcija ne radi, stoga se prilagodila navigacija
